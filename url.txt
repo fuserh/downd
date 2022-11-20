@@ -1,1 +1,1 @@
-https://dist.torproject.org/torbrowser/11.5.7/
+https://github.com/gffice/dl
